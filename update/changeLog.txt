@@ -1,0 +1,5 @@
+Versión 1.0 Build 5 (26 Mayo 2025) Inicial
+
+-	Compatibilidad con Chrome
+-	Soporte para 32 conexiones
+-	Soporte para (Pausar, Detener, Reanudar) descargas
