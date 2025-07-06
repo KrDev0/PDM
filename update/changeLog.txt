@@ -1,6 +1,6 @@
 Versión 1.1 Build 6 (6 Julio 2025) 
 
--	Soporte para descargar multiples archivos desde el menú contextual del navegador
+-	Soporte para descargar múltiples archivos desde el menú contextual del navegador
 -	Soporte para descargar videos de sitios web
 -	Interfaz rediseñada
 -   Posibilidad de cambiar la carpeta temporal de descargas
